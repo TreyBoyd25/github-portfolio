@@ -10,7 +10,7 @@ Pent testing
 
 
 ## Projects
-- Homelab
+Homelab
 
 ## Labs
 |   |     |
